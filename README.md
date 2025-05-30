@@ -54,7 +54,8 @@ Python 3.8+
 ## Required packages: pandas, numpy, faker, matplotlib, seaborn, xlsxwriter
 
 # Clone the repository
-git clone https://github.com/ssmujtaba/ecommerce-data-cleaner.git
+
+https://github.com/ssmujtaba/ecommerce_data_cleaning
 
 # Navigate to project directory
 cd ecommerce-data-cleaner
