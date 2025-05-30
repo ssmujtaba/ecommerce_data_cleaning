@@ -10,6 +10,12 @@ This project showcases robust **data generation** and **cleaning** skills by cre
 
 **Reproducible Workflow**: Complete pipeline from data creation to analysis-ready output
 
+## Data Pipeline Overview
+
+![Data Processing Pipeline](data_pipeline.png)
+
+**Figure 1:** End-to-end data pipeline showing the synthetic data generation, cleaning process, and analysis workflow
+
 # Key Features
 
 🧪 Synthetic Data Generation
